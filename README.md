@@ -17,7 +17,7 @@ get a list of images and generate randomly effect on the images (brightness,crop
 
 **yolov3tov5.py**
 
-wait for csv yolov3 file and generate a repo file compatible for yolov5
+wait for csv yolov3 file(final_train.csv) and generate a repo file compatible for yolov5
 
 
 
