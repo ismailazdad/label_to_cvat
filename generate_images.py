@@ -16,7 +16,6 @@ def addRandomBrightness(filename, randBrightness):
     enhancer = ImageEnhance.Brightness(img)
     im_output = enhancer.enhance(randBrightness)
     im_output.save(filename)
-    print("test")
     return im_output
 
 def addContrat(filename, randContrast):
