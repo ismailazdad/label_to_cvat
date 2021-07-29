@@ -2,7 +2,7 @@
 
 **labels_to_cvat.py**
 
-geneate a zip files compatible with cvat
+generate a zip files compatible with cvat
 
 #example :
 
