@@ -34,7 +34,9 @@ will generate files containing the proportion
 be ware remember to change your classes.yaml with the path of the new files instead the repository directly
 
 train: ../hemato/train/autosplit_train.txt
+
 val: ../hemato/train/autosplit_val.txt
+
 test: ../hemato/train/autosplit_test.txt
 
 
