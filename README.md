@@ -23,6 +23,8 @@ wait for csv yolov3 file(final_train.csv) and generate a repo file compatible fo
 
 make repartition assets to group train val and test repo , and create 3 files containing the assets repartition
 
+autosplit_train.txt, autosplit_val.txt, autosplit_test.txt
+
 example :
 
 param : path to the images and proportion wanted between train , val and test
