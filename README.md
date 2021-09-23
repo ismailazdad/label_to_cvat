@@ -24,6 +24,7 @@ wait for csv yolov3 file(final_train.csv) and generate a repo file compatible fo
 make repartition assets to group train val and test repo , and create 3 files containing the assets repartition
 
 example :
+
 param : path to the images and proportion wanted between train , val and test
 
 !python autosplit.py autosplit '../hemato/train/images' 0.9 0.05 0.05
