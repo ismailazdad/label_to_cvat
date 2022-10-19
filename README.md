@@ -2,7 +2,7 @@
 
 **labels_to_cvat.py**
 
-generate a zip files compatible with [cvat](https://cvat.org/)
+generate a zip files compatible with [cvat](https://github.com/opencv/cvat)
 
 #example :
 
